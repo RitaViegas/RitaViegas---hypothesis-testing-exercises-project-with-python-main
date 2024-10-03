@@ -1,0 +1,98 @@
+{
+    "config": {
+        "port": 3000,
+        "os": "win32",
+        "editor": {
+            "mode": "extension",
+            "agent": "vscode",
+            "version": "4.1.6"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "http://localhost:3000",
+        "contact": "https://github.com/learnpack/learnpack/issues/new",
+        "language": "auto",
+        "autoPlay": true,
+        "projectType": "project",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "disabledActions": [],
+        "actions": [],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "suggestions": {
+            "agent": "vscode"
+        },
+        "warnings": {
+            "agent": null
+        },
+        "title": "Hypothesis Testing Exercises in Python",
+        "slug": "hypothesis-testing-exercises-project-with-python",
+        "preview": "https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/blob/main/preview.jpeg?raw=true",
+        "solution": "https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/blob/main/notebook/solutions.ipynb",
+        "status": "published",
+        "translations": [
+            "us"
+        ],
+        "technologies": [
+            "matplotlib",
+            "numpy",
+            "pandas"
+        ],
+        "difficulty": "beginner",
+        "syntax": "python",
+        "duration": 2,
+        "description": "Use your NumPy, Pandas and Matplotlib skills to practice a little about hypothesis testing with Annova and others"
+    },
+    "address": "http://localhost:3000",
+    "currentExercise": null,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "notebook",
+            "slug": "notebook",
+            "translations": {},
+            "language": null,
+            "entry": null,
+            "title": "notebook",
+            "graded": false,
+            "files": [
+                {
+                    "path": "notebook/.gitkeep",
+                    "name": ".gitkeep",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/problems.es.ipynb",
+                    "name": "problems.es.ipynb",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/problems.ipynb",
+                    "name": "problems.ipynb",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/solutions.ipynb",
+                    "name": "solutions.ipynb",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ],
+    "bugsLink": null,
+    "videoSolutions": false,
+    "localhostOnly": false,
+    "session": 5740316343018581000
+}
